@@ -1,6 +1,6 @@
 package com.david.ShutdownJar;
 
-import java.io.*;
+import java.io.IOException;
 
 public class main {
     public static void main(String arg[]) throws IOException {
